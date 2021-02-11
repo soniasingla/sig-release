@@ -1,0 +1,3 @@
+pr: 98169
+releasenote:
+  text: readjust kubelet_containers_per_pod_count bucket in kubelet metrics
